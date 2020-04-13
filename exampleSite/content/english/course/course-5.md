@@ -7,7 +7,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   nostrud.
 image: images/courses/course-5.jpg
 category: Programming
-teacher: Zim Cook
+teacher: Ruben Visser
 duration: 06 Month
 weekly: 03 hours
 fee: 'From: $699'
