@@ -16,7 +16,7 @@ apply_url: "#"
 ---
 ### About Course
 
-Hello Hello Hello!
+People can write what they want!
 
 ### Requirements
 
