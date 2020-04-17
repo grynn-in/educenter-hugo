@@ -1,5 +1,5 @@
 ---
-title: First Weldplast site
+title: First Weldplast Site
 date: 2019-07-06T09:27:17.000+00:00
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
