@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://hugo.grr.fyi/"
+baseURL = "https://edu.hugo.grr.fyi/"
 title = "Educenter | hugo education template"
 theme = "educenter-hugo"
 # post pagination
